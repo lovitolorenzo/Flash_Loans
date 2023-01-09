@@ -1,3 +1,7 @@
+## Flash Loans Description
+
+Flash loans are a type of loan that allows borrowers to obtain very large amounts of money, without collateral, for a very short period of time, often just a few seconds. The key feature of a flash loan is that it must be repaid in the same transactions they have been received. This means that borrowers must have a plan in place to generate the necessary funds to repay the loan before the deadline. They allow users to borrow and lend digital assets quickly and easily, and can be used for a variety of purposes, including arbitrage, market making, and liquidity provision.
+
 ## Projects overview
 
 - The idea around DeFi
